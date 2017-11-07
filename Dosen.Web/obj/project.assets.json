@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arif\\source\\repos\\Dosen\\Dosen.Web\\Dosen.Web.csproj",
+      "projectUniqueName": "D:\\Work\\Cakra\\dosen\\Dosen.Web\\Dosen.Web.csproj",
       "projectName": "Dosen.Web",
-      "projectPath": "C:\\Users\\Arif\\source\\repos\\Dosen\\Dosen.Web\\Dosen.Web.csproj",
+      "projectPath": "D:\\Work\\Cakra\\dosen\\Dosen.Web\\Dosen.Web.csproj",
       "packagesPath": "C:\\Users\\Arif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arif\\source\\repos\\Dosen\\Dosen.Web\\obj\\",
+      "outputPath": "D:\\Work\\Cakra\\dosen\\Dosen.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
