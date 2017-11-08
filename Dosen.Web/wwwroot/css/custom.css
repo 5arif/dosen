@@ -79,3 +79,35 @@ a {
 .owl-carousel .owl-controls .owl-page.active span, .owl-theme .owl-controls .owl-page.active span, .owl-carousel .owl-controls.clickable .owl-page:hover span, .owl-theme .owl-controls.clickable .owl-page:hover span {
     background: #b51922;
 }
+
+#top i{
+    color : white;
+}
+
+.modal-backdrop {
+    z-index: -1;
+}
+
+@media screen and (max-width: 480px) {
+    .title {
+        font-size: 18px;
+    }
+
+    #top i {
+        font-size: 20px;
+        padding: 6px;
+    }
+
+    #top .login a {
+        margin-right : auto;
+    }
+
+    .owl-item h1{
+        font-size :25px;
+    }
+
+    .home-carousel .owl-carousel {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}

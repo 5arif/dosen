@@ -9,3 +9,14 @@ C:\Users\Arif\source\repos\Dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.Ass
 C:\Users\Arif\source\repos\Dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfo.cs
 C:\Users\Arif\source\repos\Dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.dll
 C:\Users\Arif\source\repos\Dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.pdb
+D:\Work\Cakra\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.deps.json
+D:\Work\Cakra\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.runtimeconfig.json
+D:\Work\Cakra\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.runtimeconfig.dev.json
+D:\Work\Cakra\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.dll
+D:\Work\Cakra\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.pdb
+D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.csprojResolveAssemblyReference.cache
+D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.csproj.CoreCompileInputs.cache
+D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfoInputs.cache
+D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfo.cs
+D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.dll
+D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.pdb
