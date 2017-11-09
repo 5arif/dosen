@@ -11,15 +11,39 @@ namespace Dosen.Web.Controllers
             return View();
         }
 
-        public IActionResult About()
+        [Route("Profile")]
+        public IActionResult Profile()
         {
-            ViewData["Message"] = "Your application description page.";
+            return View();
+        }
 
+        [Route("Educations")]
+        public IActionResult Educations()
+        {
+            return View();
+        }
+
+        [Route("Work")]
+        public IActionResult Work()
+        {
+            return View();
+        }
+
+        [Route("Account")]
+        public IActionResult Account()
+        {
             return View();
         }
 
         [Route("Register")]
         public IActionResult Register()
+        {
+            return View();
+        }
+
+
+        [Route("Research")]
+        public IActionResult Research()
         {
             return View();
         }
