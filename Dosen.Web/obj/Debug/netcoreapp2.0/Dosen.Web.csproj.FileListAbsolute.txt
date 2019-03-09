@@ -20,3 +20,14 @@ D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfoInpu
 D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfo.cs
 D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.dll
 D:\Work\Cakra\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.pdb
+D:\Git\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.deps.json
+D:\Git\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.runtimeconfig.json
+D:\Git\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.runtimeconfig.dev.json
+D:\Git\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.dll
+D:\Git\dosen\Dosen.Web\bin\Debug\netcoreapp2.0\Dosen.Web.pdb
+D:\Git\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.csprojAssemblyReference.cache
+D:\Git\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.csproj.CoreCompileInputs.cache
+D:\Git\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfoInputs.cache
+D:\Git\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.AssemblyInfo.cs
+D:\Git\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.dll
+D:\Git\dosen\Dosen.Web\obj\Debug\netcoreapp2.0\Dosen.Web.pdb
